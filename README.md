@@ -10,6 +10,7 @@ A count plot is helpful when dealing with categorical values. It is used to plot
 3. Hue-The name of the categorical column to split the bars
 4. Palette-The color of the palette to be used
 
+
 # KDE(Kernel Density Plot)
 
 A Kernel Density Estimate(KDE) plot is used to plot the distribution of continuous data. The parameters of kdeplot() function are:
