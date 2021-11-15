@@ -9,6 +9,7 @@ A count plot is helpful when dealing with categorical values. It is used to plot
 2. x-The name of the column
 3. Hue-The name of the categorical column to split the bars
 4. Palette-The color of the palette to be used
+![](Countplot.png)
 
 # KDE(Kernel Density Plot)
 
